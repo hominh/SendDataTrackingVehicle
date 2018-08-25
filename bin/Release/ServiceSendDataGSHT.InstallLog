@@ -1,0 +1,2422 @@
+﻿Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Warning: The source ServiceSendData is not registered on the local machine.
+Service ServiceSendData is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Creating EventLog source ServiceSendData in log Application...
+Rolling back assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Restoring event log to previous state for source ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Creating EventLog source ServiceSendData in log Application...
+Rolling back assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Restoring event log to previous state for source ServiceSendData.
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Warning: The source ServiceSendData is not registered on the local machine.
+Service ServiceSendData is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Warning: The source ServiceSendData is not registered on the local machine.
+Service ServiceSendData is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Creating EventLog source ServiceSendData in log Application...
+Rolling back assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Restoring event log to previous state for source ServiceSendData.
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Creating EventLog source ServiceSendData in log Application...
+Rolling back assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Restoring event log to previous state for source ServiceSendData.
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Creating EventLog source ServiceSendData in log Application...
+Rolling back assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Restoring event log to previous state for source ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Creating EventLog source ServiceSendData in log Application...
+Rolling back assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Restoring event log to previous state for source ServiceSendData.
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Warning: The source ServiceSendData is not registered on the local machine.
+Service ServiceSendData is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Creating EventLog source ServiceSendData in log Application...
+Rolling back assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Restoring event log to previous state for source ServiceSendData.
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Creating EventLog source ServiceSendData in log Application...
+Rolling back assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Restoring event log to previous state for source ServiceSendData.
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Warning: The source ServiceSendData is not registered on the local machine.
+Service ServiceSendData is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Warning: The source ServiceSendData is not registered on the local machine.
+Service ServiceSendData is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Creating EventLog source ServiceSendData in log Application...
+Rolling back assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Restoring event log to previous state for source ServiceSendData.
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Creating EventLog source ServiceSendData in log Application...
+Rolling back assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Restoring event log to previous state for source ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Creating EventLog source ServiceSendData in log Application...
+Rolling back assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Restoring event log to previous state for source ServiceSendData.
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Creating EventLog source ServiceSendData in log Application...
+Rolling back assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Restoring event log to previous state for source ServiceSendData.
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Creating EventLog source ServiceSendData in log Application...
+Rolling back assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Restoring event log to previous state for source ServiceSendData.
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Warning: The source ServiceSendData is not registered on the local machine.
+Service ServiceSendData is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Attempt to stop service ServiceSendData.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Uninstalling assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Removing EventLog source ServiceSendData.
+Service ServiceSendData is being removed from the system...
+Service ServiceSendData was successfully removed from the system.
+Installing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+Installing service ServiceSendData...
+Service ServiceSendData has been successfully installed.
+Creating EventLog source ServiceSendData in log Application...
+Committing assembly 'E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.InstallLog
+   assemblypath = E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe

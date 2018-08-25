@@ -1,0 +1,6 @@
+[Database Config]
+DB_USER=cadpro
+DB_PASS=cadprojsc
+DB_HOST=192.168.3.10
+DB_PORT=3306
+DB_SCHEMA=CadProVTS

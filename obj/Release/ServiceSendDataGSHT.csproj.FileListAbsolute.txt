@@ -1,0 +1,16 @@
+E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe.config
+E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.exe
+E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\ServiceSendDataGSHT.pdb
+E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\log4net.dll
+E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\MySql.Data.dll
+E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\protobuf-net.dll
+E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\RabbitMQ.Client.dll
+E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\RabbitMQ.ServiceModel.dll
+E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\protobuf-net.pdb
+E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\protobuf-net.xml
+E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\bin\Release\RabbitMQ.Client.xml
+E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\obj\Release\ServiceSendDataGSHT.ProjectInstaller.resources
+E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\obj\Release\ServiceSendDataGSHT.ServiceSendData.resources
+E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\obj\Release\ServiceSendDataGSHT.csproj.GenerateResource.Cache
+E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\obj\Release\ServiceSendDataGSHT.exe
+E:\project\NET\ServiceSendDataGSHT\ServiceSendDataGSHT\ServiceSendDataGSHT\obj\Release\ServiceSendDataGSHT.pdb
