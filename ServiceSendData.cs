@@ -78,9 +78,6 @@ namespace ServiceSendDataGSHT
             String now = dateTime.ToString("yyyy-MM-dd") + " 00:00:00";
             WriteLog("Start SendData");
 
-
-            
-
             try
             {
                 WayPoint wp = new WayPoint();
@@ -93,7 +90,6 @@ namespace ServiceSendDataGSHT
                     {
                         WriteLog("try factory.CreateConnection to DRVN");
 
-                        //Mat mang thi chet tu day
                         //IConnection conn = CreateConnection();
                         /////////////////////////////////////
 
@@ -104,16 +100,13 @@ namespace ServiceSendDataGSHT
                         WriteLog("Start connect db");
                         try
                         {
-
                             string sql = "SELECT DISTINCT(carlog_id), YEAR(carlog_thoigian) as year,MONTH(carlog_thoigian) as month,DAY(carlog_thoigian) as day, HOUR(carlog_thoigian) as hour,MINUTE(carlog_thoigian) as minute, SECOND(carlog_thoigian) as second, carlog_bienso,carlog_kinhdo,carlog_vido,carlog_vantoc_tb,carlog_laixe_uid FROM tbl_carlogsentdrvn LEFT JOIN tbl_laixe ON carlog_laixe_uid = laixe_uid   WHERE carlog_thoigian != '0000-00-00 00:00:00' AND carlog_sentdrvn  = 0  AND  carlog_thoigian >=  '" + now + "'    ORDER BY carlog_thoigian ASC LIMIT 0,1000";
-
                             WriteLog(sql);
 
                             MySqlCommand cmd = new MySqlCommand(sql, connMysql);
                             string carlogid = "";
                             using (MySqlDataReader reader = cmd.ExecuteReader())
                             {
-
                                 string carlogbienso = "";
                                 string carlogbiensoorigin = "";
                                 double carlogx;
@@ -132,8 +125,6 @@ namespace ServiceSendDataGSHT
                                         carlogbienso = string.Concat(reader.GetString("carlog_bienso").Where(char.IsLetterOrDigit));
                                         carlogx = reader.GetDouble("carlog_kinhdo");
                                         carlogy = reader.GetDouble("carlog_vido");
-
-
                                         year = reader.GetInt32("year");
                                         month = reader.GetInt32("month");
                                         day = reader.GetInt32("day");
@@ -187,8 +178,6 @@ namespace ServiceSendDataGSHT
                             }
                             Thread.Sleep(10000);
                             //Reconnect();
-
-
                         }
                         catch (Exception ex)
                         {
@@ -198,7 +187,6 @@ namespace ServiceSendDataGSHT
                             //RestartService();
                             Thread.Sleep(1000);
                         }
-
                     }
                 }
             }
